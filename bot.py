@@ -3,7 +3,7 @@ import os, requests
 
 BOT_TOKEN   = '8127820339:AAGW5glNJx6IJtFdBNMUit_-6n86nOrW2-c'
 WEBHOOK_URL = 'https://eldoll2.onrender.com'     # ваш поддомен
-CHANNEL_ID  = -1001087968824                     # id вашего канала
+CHANNEL_ID  = -1002646760131                     # id вашего канала
 API_URL     = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 app = Flask(__name__)
